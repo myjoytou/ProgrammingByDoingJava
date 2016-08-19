@@ -1,0 +1,3 @@
+What is the capital of Alaska? : Melbourne, Anchorage, Juneau : Juneau
+Can you store the value "cat" in a variable of type int? : yes, no : no
+What is the result of 9+6/3? : 5, 11, 15/3 : 11
